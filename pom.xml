@@ -7,7 +7,7 @@
    <repository>
      <id>central</id>
      <name>central</name>
-     <url>http://192.168.0.37:8081/artifactory/ext-release-local</url>
+     <url>http://192.168.30.30:8082/repository/maven-central/</url>
    </repository>
   </distributionManagement>
   <packaging>war</packaging>
