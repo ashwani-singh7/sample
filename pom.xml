@@ -13,12 +13,12 @@
   <distributionManagement>
     <repository>
       <id>UCD</id>
-      <name>Internal Releases</name>
+      <name>RelRepo</name>
       <url>http://192.168.30.202:8081/repository/UCD-Release/</url>
     </repository>
     <snapshotRepository>
       <id>UCD</id>
-      <name>Internal Snapshot</name>
+      <name>SnapRepo</name>
       <url>http://192.168.30.202:8081/repository/UCD-Snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
